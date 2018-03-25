@@ -1,0 +1,22 @@
+{
+  "name": "WFFCategory",
+  "version": "0.1.0",
+  "summary": "A short description of WFFCategory.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/WGuiGui/WFFCategory",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "WGuiGui": "13521375667@163.com"
+  },
+  "source": {
+    "git": "https://github.com/WGuiGui/WFFCategory.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WFFCategory/Classes/**/*"
+}
